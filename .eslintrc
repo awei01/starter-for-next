@@ -1,0 +1,15 @@
+{
+  "env": {
+    "browser": true
+  },
+  "extends": [
+    "standard",
+    "standard-react"
+  ],
+  "parser": "babel-eslint",
+  "rules": {
+    "react/prop-types": 0,
+    "camelcase": 0,
+    "react/jsx-no-bind": 0
+  }
+}

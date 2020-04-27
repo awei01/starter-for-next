@@ -1,0 +1,17 @@
+# Next
+.next
+pages/sandbox
+
+# configs
+.env.build
+.configs.js
+
+# Node
+node_modules
+package-lock.json
+yarn-error.log
+
+# System
+.DS_Store
+*.log
+*.sublime-*
